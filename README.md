@@ -1,2 +1,2 @@
 # Mancala
-Developed a text-based Mancala board game in Python with an interactive gameplay loop for two players. Utilized nested lists and string manipulation for dynamic board rendering. Implemented game mechanics including valid move checks, stone distribution, and end-of-game conditions for smooth, accurate gameplay.
+Developed a text-based version of the Mancala board game in Python, featuring an interactive gameplay loop for two players. Utilized nested lists and string manipulation to dynamically render the game board, ensuring a clear visual representation of the game state. Implemented essential game mechanics, including valid move checks, stone distribution, and end-of-game conditions, to provide a smooth and accurate gameplay experience.
